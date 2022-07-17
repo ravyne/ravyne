@@ -14,7 +14,11 @@ I'm fluent in several programming languages and literate in many more.
 
 Skills: Technical Writing | C and C++ | Embedded | Game Development
 
-- 🔭 I’m currently working on bare-metal libraries for writing console games with Rust -- GBA, Sega Genesis, Playstation + more to come
+- 🔭 I’m currently working on bare-metal libraries for writing console games with Rust:
+     * Nintendo Gameboy Advance
+     * Sega Genesis/Megadrive
+     * Sony Playstation
+     * ... more to come
 - 🌱 I’m currently learning logic design and Verilog 
 - 💬 Ask me about console game development with Rust 
 - 😄 Pronouns: He/Him 
