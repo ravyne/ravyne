@@ -38,6 +38,14 @@ In addition to the conceptual and GUI reference topics, I created several scenar
 
 ---
 
+#### [Input for games](https://docs.microsoft.com/en-us/windows/uwp/gaming/input-for-games)
+
+In this section, I describe the common types of gaming input devices and how they are used through the UWP Windows.Gaming.Input namespace on Windows 10/11 and Xbox (One, Series X|S). Topics include device-specific features, as in [Gamepad and vibration](https://docs.microsoft.com/en-us/windows/uwp/gaming/gamepad-and-vibration), how [UI navigation controller](https://docs.microsoft.com/en-us/windows/uwp/gaming/ui-navigation-controller) abstracts different input devices for consistent UI experiences, and [Input practices for games](https://docs.microsoft.com/en-us/windows/uwp/gaming/input-practices-for-games).
+
+*(docs.microsoft<span>.com</span>)*
+
+---
+
 #### [Upstart - Games Revolution](https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/august/upstart-games-revolution)
 
 Upstart is a monthly column highlighting emerging opportunities and technologies for those early in their career or seeking new challenges. In this article, I discuss how computer and video games have grown to an $80+ billion industry, and how game engine platforms like Unity, Unreal, and others have made game development easier and more accessible than ever before.
