@@ -13,17 +13,18 @@ Skills: Technical Writing | C and C++ | Embedded | Game Development
      * Sega Genesis/Megadrive
      * Sony Playstation
      * ... more to come
-- 🌱 I’m currently learning more about Rust 
-- 💬 Ask me about console game development with Rust 
-- 😄 Pronouns: He/Him 
+- 🌱 I’m currently learning Ghidra, and more about Rust
+- 💬 Ask me about console game development with Rust
+- 😄 Pronouns: He/Him
 
 I'm also an experienced technical writer for all-things software development: platforms, programming languages, APIs, developer tools, and training modules.
 
 <p align="center">You can find some examples of my writing below.</p>
 
-<div style="padding-left:80px; padding-right:80px"> 
+<div style="padding-left:80px; padding-right:80px">
 
 ---
+
 #### [Visual Studio Graphics Diagnostics](https://learn.microsoft.com/en-us/visualstudio/debugger/graphics/visual-studio-graphics-diagnostics?view=vs-2022)
 
 In this section, I detail Visual Studio's *Graphics Diagnostics*, a set of tools for analyzing rendering errors and performance problems in Direct3D applications. The workflow begins by capturing rendered frames–live, from a Direct3D application–into a [Graphics Log Document](https://learn.microsoft.com/en-us/visualstudio/debugger/graphics/graphics-log-document); later, the capture is played back under the *Graphics Analyzer* where rendering errors are examined interactively by using tools such as the [Event List](https://learn.microsoft.com/en-us/visualstudio/debugger/graphics/graphics-event-list), [Pipeline Stages](https://learn.microsoft.com/en-us/visualstudio/debugger/graphics/graphics-pipeline-stages) window, [Pixel History](https://learn.microsoft.com/en-us/visualstudio/debugger/graphics/graphics-pixel-history), and others.
@@ -40,7 +41,7 @@ In addition to the conceptual and GUI reference topics, I created several scenar
 
 #### [Input for games](https://docs.microsoft.com/en-us/windows/uwp/gaming/input-for-games)
 
-In this section, I describe the common types of gaming input devices and how they are used through the UWP Windows.Gaming.Input namespace on Windows 10/11 and Xbox (One, Series X|S). Topics include device-specific features, as in [Gamepad and vibration](https://docs.microsoft.com/en-us/windows/uwp/gaming/gamepad-and-vibration), how [UI navigation controller](https://docs.microsoft.com/en-us/windows/uwp/gaming/ui-navigation-controller) abstracts different input devices for consistent UI experiences, and [Input practices for games](https://docs.microsoft.com/en-us/windows/uwp/gaming/input-practices-for-games).
+In this section, I describe the common types of gaming input devices and how they are used through the UWP Windows.Gaming.Input namespace on Windows 10/11 and Xbox (One, Series X|S). Topics include device-specific capabilities, such as in [Gamepad and vibration](https://docs.microsoft.com/en-us/windows/uwp/gaming/gamepad-and-vibration) or [Racing wheel and force feedback](https://learn.microsoft.com/en-us/windows/uwp/gaming/racing-wheel-and-force-feedback), how [UI navigation controller](https://docs.microsoft.com/en-us/windows/uwp/gaming/ui-navigation-controller) is used to deliver consistent UI experience across different input devices, common [Input practices for games](https://docs.microsoft.com/en-us/windows/uwp/gaming/input-practices-for-games), and more.
 
 *(docs.microsoft<span>.com</span>)*
 
